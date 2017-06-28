@@ -1,3 +1,3 @@
 # gitskills
 add new line
-new line 2 in master and feature1
+new line 2 in master and feature1 and new again
